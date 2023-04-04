@@ -45,6 +45,7 @@ std::string miracle1(const std::string& s) {
   return r;
 }
 
+
 std::string infx2pstfx(std::string inf) {
   std::string work;
   Tstack<char, 100> stack1;
